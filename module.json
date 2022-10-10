@@ -1,0 +1,264 @@
+{
+  "title": "Monk's Recommended Modules",
+  "description": "Just my list of recommended modules so that I can load my favorite set of modules quickly.",
+  "version": "1.0",
+  "authors": [
+    {
+      "name": "IronMonk",
+      "discord": "ironmonk88#4075",
+      "flags": {}
+    }
+  ],
+  "socket": true,
+  "url": "https://github.com/ironmonk88/monks-recommended-modules",
+  "download": "https://github.com/ironmonk88/monks-recommended-modules/archive/1.0.zip",
+  "manifest": "https://github.com/ironmonk88/monks-recommended-modules/releases/latest/download/module.json",
+  "bugs": "https://github.com/ironmonk88/monks-recommended-modules/issues",
+  "id": "monks-recommended-modules",
+  "relationships": {
+    "requires": [
+      {
+      "id": "always-hp",
+      "title": "Always HP",
+      "type": "module"
+    },
+    {
+      "id": "autocomplete-whisper",
+      "title": "Autocomplete Whisper",
+      "type": "module"
+    },
+    {
+      "id": "breaktime",
+      "title": "Break Time",
+      "type": "module"
+    },
+    {
+      "id": "combat-enhancements",
+      "title": "Combat Enhancements",
+      "type": "module"
+    },
+    {
+      "id": "confetti",
+      "title": "Confetti",
+      "type": "module"
+    },
+    {
+      "id": "custom-css",
+      "title": "Custom CSS",
+      "type": "module"
+    },
+    {
+      "id": "df-chat-enhance",
+      "title": "DF Chat Enhancements",
+      "type": "module"
+    },
+    {
+      "id": "dice-so-nice",
+      "title": "Dice So Nice!",
+      "type": "module"
+    },
+    {
+      "id": "disable-mouse-wheel-sliders",
+      "title": "Disable Mouse Wheel Control for Sliders",
+      "type": "module"
+    },
+    {
+      "id": "drag-ruler",
+      "title": "Drag Ruler",
+      "type": "module"
+    },
+    {
+      "id": "dae",
+      "title": "Dynamic effects using Active Effects",
+      "type": "module"
+    },
+    {
+      "id": "easy-target",
+      "title": "Easy Target",
+      "type": "module"
+    },
+    {
+      "id": "enhanced-terrain-layer",
+      "title": "Enhanced Terrain Layer",
+      "type": "module"
+    },
+    {
+      "id": "find-the-culprit",
+      "title": "Find the culprit",
+      "type": "module"
+    },
+    {
+      "id": "foundryvtt-arms-reach",
+      "title": "FoundryVTT Arms Reach",
+      "type": "module"
+    },
+    {
+      "id": "fxmaster",
+      "title": "FXMaster",
+      "type": "module"
+    },
+    {
+      "id": "healthEstimate",
+      "title": "Health Estimate",
+      "type": "module"
+    },
+    {
+      "id": "illandril-hotbar-uses",
+      "title": "Illandril's Hotbar Uses",
+      "type": "module"
+    },
+    {
+      "id": "lessfog",
+      "title": "Less Fog",
+      "type": "module"
+    },
+    {
+      "id": "_chatcommands",
+      "title": "Library: Chat Commands",
+      "type": "module"
+    },
+    {
+      "id": "lib-wrapper",
+      "title": "libWrapper",
+      "type": "module"
+    },
+    {
+      "id": "monks-active-tiles",
+      "title": "Monk's Active Tile Triggers",
+      "type": "module"
+    },
+    {
+      "id": "monks-enhanced-journal",
+      "title": "Monk's Enhanced Journal",
+      "type": "module"
+    },
+    {
+      "id": "monks-hotbar-expansion",
+      "title": "Monk's Hotbar Expansion",
+      "type": "module"
+    },
+    {
+      "id": "monks-little-details",
+      "title": "Monk's Little Details",
+      "type": "module"
+    },
+    {
+      "id": "monks-player-settings",
+      "title": "Monk's Player Settings",
+      "type": "module"
+    },
+    {
+      "id": "monks-scene-navigation",
+      "title": "Monk's Scene Navigation",
+      "type": "module"
+    },
+    {
+      "id": "monks-shops",
+      "title": "Monk's Shops",
+      "type": "module"
+    },
+    {
+      "id": "monks-sound-enhancements",
+      "title": "Monk's Sound Enhancements",
+      "type": "module"
+    },
+    {
+      "id": "monks-tokenbar",
+      "title": "Monk's TokenBar",
+      "type": "module"
+    },
+    {
+      "id": "monks-wall-enhancement",
+      "title": "Monk's Wall Enhancement",
+      "type": "module"
+    },
+    {
+      "id": "multiple-document-selection",
+      "title": "Multiple Document Selection",
+      "type": "module"
+    },
+    {
+      "id": "narrator-tools",
+      "title": "Narrator Tools",
+      "type": "module"
+    },
+    {
+      "id": "nice-more-dice",
+      "title": "Nice More Dice",
+      "type": "module"
+    },
+    {
+      "id": "polyglot",
+      "title": "Polyglot",
+      "type": "module"
+    },
+    {
+      "id": "popout",
+      "title": "PopOut!",
+      "type": "module"
+    },
+    {
+      "id": "pull-players-to-scene",
+      "title": "Pull Players to Scene",
+      "type": "module"
+    },
+    {
+      "id": "simple-dice-roller",
+      "title": "Simple Dice Roller",
+      "type": "module"
+    },
+    {
+      "id": "socketlib",
+      "title": "socketlib",
+      "type": "module"
+    },
+    {
+      "id": "tagger",
+      "title": "Tagger",
+      "type": "module"
+    },
+    {
+      "id": "terrain-ruler",
+      "title": "Terrain Ruler",
+      "type": "module"
+    },
+    {
+      "id": "tidy-ui_game-settings",
+      "title": "Tidy UI - Game Settings",
+      "type": "module"
+    },
+    {
+      "id": "token-auras",
+      "title": "Token Auras",
+      "type": "module"
+    },
+    {
+      "id": "token-hud-wildcard",
+      "title": "Token HUD Wildcard",
+      "type": "module"
+    },
+    {
+      "id": "token-info-icons",
+      "title": "Token Info Icons",
+      "type": "module"
+    },
+    {
+      "id": "window-controls",
+      "title": "Window Controls",
+      "type": "module"
+    },
+    {
+      "id": "zoom-pan-options",
+      "title": "Zoom/Pan Options",
+      "type": "module"
+    }
+    ]
+  },
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "name": "monks-recommended-modules",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "10"
+}
